@@ -1,2 +1,2 @@
 # ia-mentor-de-carreira
-Projeto acadêmico: mentor de carreira em tecnologia com perfil, recomendação para GRC em segurança e roadmap de aprendizagem personalizado.
+Projeto acadêmico: IA mentor de carreira é um projeto que utiliza inteligência artificial para ajudar pessoas a descobrirem caminhos profissionais em tecnologia, identificando interesses, sugerindo áreas de atuação e indicando habilidades importantes para o desenvolvimento da carreira.
